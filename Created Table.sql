@@ -23,7 +23,8 @@ CREATE TABLE customer_Details (
   Account_Number varchar(20) DEFAULT NULL  UNIQUE KEY,
   Account_Balance decimal(12,2) DEFAULT NULL,
   Created_At timestamp NULL DEFAULT CURRENT_TIMESTAMP,
-  Account_Status enum('Active','Inactive') DEFAULT NULL
+  Account_Status enum('Active','Inactive') DEFAULT NULL,
+  CONSTRAINT Check_Account_Balance CHECK(Account_Balance>0)
 
   );
   
