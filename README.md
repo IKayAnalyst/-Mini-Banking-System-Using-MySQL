@@ -1,1 +1,1 @@
-# -Mini-Banking-System-Using-MySQL
+# Mini Banking System Using-MySQL
