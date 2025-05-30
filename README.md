@@ -68,6 +68,25 @@ This project aims to evaluate practical knowledge of relational database managem
 
 ## 🧪 How to Use
 
-1. Clone the repository: OR Download the file 
-   ```bash
-   git clone https://github.com/yourusername/Mini-Banking-System-MySQL.git 
+1. Clone the repository:
+2.  Import the SQL file into your MySQL server
+   bash : git clone https://github.com/yourusername/Mini-Banking-System-MySQL.git
+
+
+
+📝 Conclusion
+This project provides hands-on experience with real-world database design concepts using MySQL . It's suitable as a learning resource or portfolio piece for students and aspiring database developers.
+
+📬 Contact
+For questions or collaboration, feel free to reach out:
+
+📧 [Email: Ikayanalystsolutions@gmail.com]
+📸 [Instagram: @ikay_analyst_solutions](https://www.instagram.com/ikay_analyst_solutions/?igsh=YmJhZmV2bWN5dnlr)  
+[TikTok - @Ikayprince_10](https://www.tiktok.com/@ikayprince_10)
+
+
+  
+
+
+
+
